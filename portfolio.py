@@ -147,9 +147,7 @@ with tab3:
 with st.expander("See explanation"):
     st.write("""
         * 본 문서는 Python으로 만들어 졌습니다.
-        * Data는 직접 연결 할 DB가 없어 CSV 형태로 가공하여 사용하였습니다.
         * 내용은, 실무적으로 지원할 수 있는 DashBoard 개발 과정을 설명하고자 하였습니다.
-        * 대단한 개발 사항은 아니지만 개발자의 눈높이 보다는 PI 및 System 운영관리자 로써의 Perfomance를 더하는 일환으로 봐 주십시오.
         * 비교적 간단하고 빠르며, 수정 및 배포가 쉬워 현업이 가진 needs에 대응이 용이 합니다.
     """)
     st.divider()
