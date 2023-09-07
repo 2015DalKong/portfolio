@@ -4,6 +4,12 @@ import datetime
 import plotly.express as px
 
 
+# Create a Streamlit object
+app = st.empty()
+
+# Set the sleep mode to False
+app.set_sleep_mode(False)
+
     ## dev start
 st.title('Welcome_JY Portfolio :checkered_flag:')
 st.caption('> Web, App 기반의 DashBoard를 구현합니다.')
