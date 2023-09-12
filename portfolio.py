@@ -5,10 +5,10 @@ import plotly.express as px
 
 
 # Create a Streamlit object
-app = st.empty()
+# app = st.empty()
 
 # Set the sleep mode to False
-app.set_sleep_mode(False)
+# app.set_sleep_mode(False)
 
     ## dev start
 st.title('Welcome_JY Portfolio :checkered_flag:')
